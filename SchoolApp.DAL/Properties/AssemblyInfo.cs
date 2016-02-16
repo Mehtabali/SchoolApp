@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SchoolApp.EF")]
+[assembly: AssemblyTitle("SchoolApp.DAL")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SchoolApp.EF")]
+[assembly: AssemblyProduct("SchoolApp.DAL")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d5536f03-19b6-4eab-a3ed-e6796a831fc0")]
+[assembly: Guid("cb79acb9-2655-44ec-a5aa-28e3a8cc4aef")]
 
 // Version information for an assembly consists of the following four values:
 //
